@@ -1,0 +1,4 @@
+pandas
+geopandas
+seaborn
+pandas_profiling
